@@ -166,5 +166,18 @@ button:hover {
     transform: scale(1);
   }
   
+  .lb-data .lb-caption {
+    background-color: black;
+    color: white;
+  }
+
+  .lb-data .lb-caption a {
+    color: #4ae;
+  }
+
+  .lb-data .lb-number {
+    background-color: black;
+    color: white;
+  }
   
 
